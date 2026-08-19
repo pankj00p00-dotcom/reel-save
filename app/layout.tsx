@@ -52,6 +52,9 @@ export const viewport: Viewport = {
 export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {
   return (
     <html lang="en">
+      <head>
+        <meta name="msvalidate.01" content="8A640A2EFF81503020D89208FEDB7E35" />
+      </head>
       <body>{children}</body>
     </html>
   );
