@@ -17,6 +17,9 @@ export const metadata: Metadata = {
   applicationName: "ReelSave",
   verification: {
     google: "GRtDQJ2BpUGChbtvJVmupWRxMTszIEmufHkd2qxR2C0",
+    other: {
+      "msvalidate.01": "8A640A2EFF81503020D89208FEDB7E35",
+    },
   },
   alternates: {
     canonical: "/",
