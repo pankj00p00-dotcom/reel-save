@@ -15,6 +15,9 @@ export const metadata: Metadata = {
     "Instagram video downloader",
   ],
   applicationName: "ReelSave",
+  verification: {
+    google: "GRtDQJ2BpUGChbtvJVmupWRxMTszIEmufHkd2qxR2C0",
+  },
   alternates: {
     canonical: "/",
   },
